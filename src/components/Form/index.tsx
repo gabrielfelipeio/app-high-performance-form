@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Alert } from 'react-native';
 import { Button } from '../Button';
 import { Input } from '../Input';
 import { Container } from './styles';
@@ -16,7 +15,7 @@ export function Form() {
     <Container>
       <Input
         icon="user"
-        placeholder="Nome"
+        placeholder="Name"
       />
       <Input
         icon="mail"
@@ -26,17 +25,17 @@ export function Form() {
       />
       <Input
         icon="lock"
-        placeholder="Senha"
+        placeholder="Password"
         secureTextEntry
       />
       <Input
         icon="lock"
-        placeholder="Confirme a senha"
+        placeholder="Password confirm"
         secureTextEntry
       />
 
       <Button
-        title="Cadastrar"
+        title="Register"
         onPress={handleUserRegister}
       />
     </Container>
