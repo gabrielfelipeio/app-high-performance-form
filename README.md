@@ -89,7 +89,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right"><img></> <a href="#top"><img src="img_girl.jpg" alt="Back to top." width="100" height="100"></a></p>
+<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/back-to-top.png" alt="Back to top." width="100" height="100"></a></p>
 
 
 
