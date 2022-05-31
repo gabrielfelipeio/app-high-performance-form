@@ -33,9 +33,9 @@
 ## About The Project
 
 <div>
-    <img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-1.png" width="300">
-    <img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-4.png" width="300">
-    <img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-6.png" width="300">
+    <img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-1.png" width="250">
+    <img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-4.png" width="250">
+    <img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-6.png" width="250">
 </div>
 
 Application developed for study using `React Native` that contains a simple form that uses the `React Hook Form` package to make the use of forms more performative in its processing and validations.
