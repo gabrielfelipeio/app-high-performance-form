@@ -81,7 +81,7 @@ This is an example of how to list things you need to use the software and how to
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" width="70"></a></p>
+<p align="right"><img></> <a href="#top">back to top</a></p>
 
 
 
@@ -98,7 +98,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" width="70"></a></p>
+<p align="right"><img></> <a href="#top">back to top</a></p>
 
 
 
@@ -106,7 +106,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" width="70"></a></p>
+<p align="right"><img></> <a href="#top">back to top</a></p>
 
 
 
