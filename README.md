@@ -32,12 +32,11 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-1.png)
+![Product Name Screen Shot](https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-1.png)
 <p align="center"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-1.png"></p>
 
 Application developed for study that contains a simple form that uses the `React Hook Form` package to make the use of forms more performative in its processing and validations.
 
-<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="50" height="50"></a></p>
 
 ### Built With
 
@@ -47,7 +46,6 @@ Application developed for study that contains a simple form that uses the `React
 * [React Hook Form](https://react-hook-form.com/)
 * [yup](https://react-hook-form.com/get-started#SchemaValidation)
 
-<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="50" height="50"></a></p>
 
 
 
