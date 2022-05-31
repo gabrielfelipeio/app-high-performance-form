@@ -40,7 +40,6 @@
 
 Application developed for study using `React Native` that contains a simple form that uses the `React Hook Form` package to make the use of forms more performative in its processing and validations.
 
-
 ### Built With
 
 * [Node.js](https://nodejs.org/en/)
@@ -48,9 +47,6 @@ Application developed for study using `React Native` that contains a simple form
 * [Expo](https://docs.expo.dev/)
 * [React Hook Form](https://react-hook-form.com/)
 * [yup](https://react-hook-form.com/get-started#SchemaValidation)
-
-
-
 
 ## Getting Started
 
@@ -61,7 +57,7 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 * Node.js
-* npm
+* NPM
   ```sh
   npm install npm@latest -g
   ```
@@ -83,8 +79,6 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="right"><img></> <a href="#top">back to top</a></p>
 
-
-
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -100,15 +94,11 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right"><img></> <a href="#top">back to top</a></p>
 
-
-
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right"><img></> <a href="#top">back to top</a></p>
-
-
 
 ## Contact
 
