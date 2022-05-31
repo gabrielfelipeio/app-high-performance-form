@@ -33,6 +33,7 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-1.png)
+<p align="center"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-1.png"></p>
 
 Application developed for study that contains a simple form that uses the `React Hook Form` package to make the use of forms more performative in its processing and validations.
 
