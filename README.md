@@ -32,11 +32,11 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-1.png)
 
 Application developed for study that contains a simple form that uses the `React Hook Form` package to make the use of forms more performative in its processing and validations.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="50" height="50"></a></p>
 
 ### Built With
 
@@ -46,7 +46,7 @@ Application developed for study that contains a simple form that uses the `React
 * [React Hook Form](https://react-hook-form.com/)
 * [yup](https://react-hook-form.com/get-started#SchemaValidation)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="50" height="50"></a></p>
 
 
 
@@ -62,7 +62,7 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
-
+  
 ### Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
@@ -79,7 +79,7 @@ This is an example of how to list things you need to use the software and how to
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="50" height="50"></a></p>
 
 
 
@@ -89,7 +89,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/back-to-top.png" alt="Back to top." width="40" height="40"></a></p>
+<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="50" height="50"></a></p>
 
 
 
@@ -106,7 +106,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="50" height="50"></a></p>
 
 
 
@@ -114,7 +114,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="50" height="50"></a></p>
 
 
 
@@ -126,4 +126,4 @@ Gabriel Felipe - gabrielfelipeio
   <a href="https://www.instagram.com/gabrielfelipeio/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="50" height="50"></a></p>
