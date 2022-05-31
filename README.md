@@ -32,7 +32,7 @@
 
 ## About The Project
 
-<div>
+<div align="center">
     <img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-1.png" width="250">
     <img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-4.png" width="250">
     <img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-6.png" width="250">
