@@ -35,7 +35,6 @@
 <div>
     <img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-1.png" width="300">
     <img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-4.png" width="300">
-    <img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-5.png" width="300">
     <img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-6.png" width="300">
 </div>
 
