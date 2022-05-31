@@ -3,7 +3,7 @@
 <br />
 
 <div align="center">
-    <h3 align="center">High Performance Form</h3>
+    <h3 align="center">High Performance Form - App</h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -32,9 +32,9 @@
 
 ## About The Project
 
-<p align="center"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-1.png" alt="Back to top." width="200"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/sample-1.png" alt="Back to top." width="300"></p>
 
-Application developed for study that contains a simple form that uses the `React Hook Form` package to make the use of forms more performative in its processing and validations.
+Application developed for study using `React Native` that contains a simple form that uses the `React Hook Form` package to make the use of forms more performative in its processing and validations.
 
 
 ### Built With
@@ -77,7 +77,7 @@ This is an example of how to list things you need to use the software and how to
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="50" height="50"></a></p>
+<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="100"></a></p>
 
 
 
@@ -87,7 +87,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="50" height="50"></a></p>
+<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="100"></a></p>
 
 
 
@@ -104,7 +104,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="50" height="50"></a></p>
+<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="100"></a></p>
 
 
 
@@ -112,7 +112,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="50" height="50"></a></p>
+<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="100"></a></p>
 
 
 
@@ -124,4 +124,4 @@ Gabriel Felipe - gabrielfelipeio
   <a href="https://www.instagram.com/gabrielfelipeio/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="50" height="50"></a></p>
+<p align="right"><img></> <a href="#top"><img src="https://raw.githubusercontent.com/gabrielfelipeio/app-high-performance-form/master/assets/examples/back-to-top.png" alt="Back to top." width="100"></a></p>
